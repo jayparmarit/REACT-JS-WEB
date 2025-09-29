@@ -8,24 +8,22 @@
 
 // console.log(total)
 
-
-
 // object 
 
-// const person1 = {
-//     name:"rashmika",
-//     age:"25",
-//     city:"mumbai",
-// };
-// const person2 = {
-//     name1:"shradha",
-//     age1:"27",
-//     city1:"mumbai",
-// };
+const person1 = {
+    name:"rashmika",
+    age:"25",
+    city:"mumbai",
+};
+const person2 = {
+    name1:"shradha",
+    age1:"27",
+    city1:"mumbai",
+};
 
-// const peopleData = {...person1, ...person2};
+const peopleData = {...person1, ...person2};
 
-// console.log(peopleData);
+console.log(peopleData);
 
 
 const item1 = {
