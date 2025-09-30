@@ -1,6 +1,6 @@
 const fruits = ["apple", "banana", "cherry"];
 
-// console.log(fruits.at(1))
+console.log(fruits)
 
 // destructure
 

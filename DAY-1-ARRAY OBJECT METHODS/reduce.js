@@ -1,10 +1,10 @@
-// const number = [1,2,3,4,5,6,7,8,9];
+const number = [1,2,3,4,5,6,7,8,9];
 
-// const total = number.reduce((acc, curr) => {
-//     return acc + curr;
-// });
+const total = number.reduce((acc, curr) => {
+    return acc + curr;
+});
 
-// console.log(total);
+console.log(total);
 
 // <------------------------------->
 
