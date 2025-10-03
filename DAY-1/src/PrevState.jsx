@@ -4,7 +4,7 @@ const PrevState = () =>{
     const [count, setCount] = useState(0)
 
     const increment = () => {
-        setCount((count)=> count + 1)
+        setCount((count)=> count + 10)
     }
 
     return (
