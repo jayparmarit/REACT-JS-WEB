@@ -1,11 +1,14 @@
-import Usestate from "./hooks/Usestate";
+// import Usestate from "./hooks/Usestate";
+
+import ObjectUseState from "./hooks/ObjectState"
 
 const App = () =>{
   return(
     <>
-        <Usestate/>
+        {/* <Usestate/> */}
+        <ObjectUseState/>
     </>
   )
 }
 
-export default App
+export default App;
