@@ -1,32 +1,44 @@
 import { useEffect, useState } from "react";
 
-const lifeCycle = () => {
+const LifeCycle = () => {
+  const [count, setCount] = useState(0);
 
-    const [count,setCount] = useState(0);
+  const [input, setInput] = useState("");
 
-    const [input,setInput] = useState("");
+  // useEffect(() => {
+  //   console.log("this will print again and again");
+  // });
 
+  // useEffect(() => {
+  //   console.log("this will print again and again");
+  // }, []);
 
-    useEffect(()=>{
-        console.log("this is a lifecyle")
+  useEffect(() => {
+    console.log("this will print again and again");
 
-        return() => {
-            console.log("this is will unmount")
-        };
-    },[count]);
+    return () => {
+      console.log("this will unmount");
+    };
+  }, [count]);
 
-    return (
-        <>
-            {count}
-            <br />
-            <button onClick={()=>setCount((count)=>count+1)}>Add</button>
-            <br />
-            <br />
-            <input type="text" value={input}  onChange={(e)=>setInput(e.target.value)}/>
-            <br />
-            {input}
-        </>
-    )
-}
+  return (
+    <>
+      {count}
 
-export default lifeCycle;
+      <br />
+      <button onClick={() => setCount((count) => count + 1)}>increase</button>
+      <br />
+      <br />
+      <input
+        type="text"
+        value={input}
+        onChange={(e) => setInput(e.target.value)}
+      />
+
+      <br />
+      {input}
+    </>
+  );
+};
+
+export default LifeCycle;
