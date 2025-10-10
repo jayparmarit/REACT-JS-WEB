@@ -1,8 +1,11 @@
 // import Usestate from "./hooks/Usestate";
 
-import OnClick from "./event/onClick";
-import OnChange from "./event/OnChange";
-import OnSubmit from "./event/OnSubmit";
+import Conditional from "./event/Conditional";
+// import PassingArgument from "./event/PassingArgument";
+
+// import OnClick from "./event/onClick";
+// import OnChange from "./event/OnChange";
+// import OnSubmit from "./event/OnSubmit";
 
 // import ObjectUseState from "./hooks/ObjectState"
 // import UseEffect from "./hooks/lifeCycle"
@@ -28,7 +31,9 @@ const App = () =>{
         {/* <UseEffect/> */}
         {/* <OnClick/> 
         <OnChange/> */}
-        <OnSubmit/>
+        {/* <OnSubmit/> */}
+        {/* <PassingArgument/> */}
+        <Conditional/>
     </>
   )
 }
