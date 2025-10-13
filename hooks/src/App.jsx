@@ -1,6 +1,11 @@
 // import Usestate from "./hooks/Usestate";
 
-import Conditional from "./event/Conditional";
+// import List from "./list/List";
+// import ObjectList from "./list/ObjectList";
+import Focus from "./refs/Focus";
+import Uncontrolled from "./refs/Uncontrolled";
+
+// import Conditional from "./event/Conditional";
 // import PassingArgument from "./event/PassingArgument";
 
 // import OnClick from "./event/onClick";
@@ -33,7 +38,11 @@ const App = () =>{
         <OnChange/> */}
         {/* <OnSubmit/> */}
         {/* <PassingArgument/> */}
-        <Conditional/>
+        {/* <Conditional/> */}
+        {/* <List/> */}
+        {/* <ObjectList/> */}
+        {/* <Focus/> */}
+        <Uncontrolled/>
     </>
   )
 }
