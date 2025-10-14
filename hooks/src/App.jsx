@@ -1,9 +1,13 @@
 // import Usestate from "./hooks/Usestate";
 
+import WorkingWithForms from "./forms/WorkingWithForms";
+
+// import Controlled from "./forms/Controlled";
+
 // import List from "./list/List";
 // import ObjectList from "./list/ObjectList";
-import Focus from "./refs/Focus";
-import Uncontrolled from "./refs/Uncontrolled";
+// import Focus from "./refs/Focus";
+// import Uncontrolled from "./forms/Uncontrolled";
 
 // import Conditional from "./event/Conditional";
 // import PassingArgument from "./event/PassingArgument";
@@ -42,7 +46,9 @@ const App = () =>{
         {/* <List/> */}
         {/* <ObjectList/> */}
         {/* <Focus/> */}
-        <Uncontrolled/>
+        {/* <Uncontrolled/> */}
+        {/* <Controlled/> */}
+        <WorkingWithForms/>
     </>
   )
 }
