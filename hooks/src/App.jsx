@@ -1,6 +1,9 @@
 // import Usestate from "./hooks/Usestate";
 
-import WorkingWithForms from "./forms/WorkingWithForms";
+// import WorkingWithForms from "./forms/WorkingWithForms";
+import External from "./styling/External";
+// import Module from "./styling/Module";
+// import InlineCSS from "./styling/InlineCSS";
 
 // import Controlled from "./forms/Controlled";
 
@@ -48,7 +51,10 @@ const App = () =>{
         {/* <Focus/> */}
         {/* <Uncontrolled/> */}
         {/* <Controlled/> */}
-        <WorkingWithForms/>
+        {/* <WorkingWithForms/> */}
+        {/* <InlineCSS/> */}
+        <External/>
+        {/* <Module /> */}
     </>
   )
 }
