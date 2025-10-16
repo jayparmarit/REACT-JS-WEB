@@ -1,5 +1,7 @@
 // import Usestate from "./hooks/Usestate";
 
+import Validation from "./forms/Validation";
+
 // import WorkingWithForms from "./forms/WorkingWithForms";
 import External from "./styling/External";
 // import Module from "./styling/Module";
@@ -53,8 +55,9 @@ const App = () =>{
         {/* <Controlled/> */}
         {/* <WorkingWithForms/> */}
         {/* <InlineCSS/> */}
-        <External/>
+        {/* <External/> */}
         {/* <Module /> */}
+        <Validation/>
     </>
   )
 }
