@@ -1,9 +1,11 @@
 // import Usestate from "./hooks/Usestate";
 
-import Validation from "./forms/Validation";
+// import { Formik } from "formik";
+// import Validation from "./forms/Validation";
 
 // import WorkingWithForms from "./forms/WorkingWithForms";
-import External from "./styling/External";
+// import External from "./styling/External";
+import FormikForm from "./forms/FormikForm";
 // import Module from "./styling/Module";
 // import InlineCSS from "./styling/InlineCSS";
 
@@ -57,7 +59,8 @@ const App = () =>{
         {/* <InlineCSS/> */}
         {/* <External/> */}
         {/* <Module /> */}
-        <Validation/>
+        {/* <Validation/> */}
+        <FormikForm/>
     </>
   )
 }
