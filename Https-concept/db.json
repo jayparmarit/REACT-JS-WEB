@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "grade": "A",
+    "major": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Isha Patel",
+    "age": 19,
+    "grade": "B",
+    "major": "Mathematics"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "age": 21,
+    "grade": "A-",
+    "major": "Physics"
+  },
+  {
+    "id": 4,
+    "name": "Sara Khan",
+    "age": 20,
+    "grade": "B+",
+    "major": "Biology"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "age": 22,
+    "grade": "A",
+    "major": "Mechanical Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Nisha Mehta",
+    "age": 18,
+    "grade": "C+",
+    "major": "Chemistry"
+  },
+  {
+    "id": 7,
+    "name": "Aditya Rao",
+    "age": 19,
+    "grade": "B-",
+    "major": "Information Technology"
+  },
+  {
+    "id": 8,
+    "name": "Priya Das",
+    "age": 21,
+    "grade": "A",
+    "major": "Economics"
+  },
+  {
+    "id": 9,
+    "name": "Kunal Joshi",
+    "age": 20,
+    "grade": "B",
+    "major": "Business Administration"
+  },
+  {
+    "id": 10,
+    "name": "Meera Nair",
+    "age": 22,
+    "grade": "A-",
+    "major": "English Literature"
+  }
+]
