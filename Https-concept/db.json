@@ -1,72 +1,84 @@
-[
+{
+  "Product":[
   {
     "id": 1,
-    "name": "Aarav Sharma",
-    "age": 20,
-    "grade": "A",
-    "major": "Computer Science"
+    "name": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "category": "Electronics",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/373945/pexels-photo-373945.jpeg"
   },
   {
     "id": 2,
-    "name": "Isha Patel",
-    "age": 19,
-    "grade": "B",
-    "major": "Mathematics"
+    "name": "Ergonomic Office Chair",
+    "price": 149.99,
+    "category": "Furniture",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
   },
   {
     "id": 3,
-    "name": "Rohan Verma",
-    "age": 21,
-    "grade": "A-",
-    "major": "Physics"
+    "name": "Smart LED Light Bulb",
+    "price": 19.49,
+    "category": "Home",
+    "inStock": false,
+    "image": "https://images.pexels.com/photos/34152/light-bulb-lighting-electricity-bulb.jpg"
   },
   {
     "id": 4,
-    "name": "Sara Khan",
-    "age": 20,
-    "grade": "B+",
-    "major": "Biology"
+    "name": "Stainless Steel Water Bottle",
+    "price": 12.99,
+    "category": "Outdoors",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/6384966/pexels-photo-6384966.jpeg"
   },
   {
     "id": 5,
-    "name": "Vikram Singh",
-    "age": 22,
-    "grade": "A",
-    "major": "Mechanical Engineering"
+    "name": "4K Ultra HD Monitor",
+    "price": 329.0,
+    "category": "Electronics",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg"
   },
   {
     "id": 6,
-    "name": "Nisha Mehta",
-    "age": 18,
-    "grade": "C+",
-    "major": "Chemistry"
+    "name": "Gaming Mouse",
+    "price": 39.99,
+    "category": "Electronics",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg"
   },
   {
     "id": 7,
-    "name": "Aditya Rao",
-    "age": 19,
-    "grade": "B-",
-    "major": "Information Technology"
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "category": "Electronics",
+    "inStock": false,
+    "image": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg"
   },
   {
     "id": 8,
-    "name": "Priya Das",
-    "age": 21,
-    "grade": "A",
-    "major": "Economics"
+    "name": "Running Sneakers",
+    "price": 74.5,
+    "category": "Sportswear",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
   },
   {
     "id": 9,
-    "name": "Kunal Joshi",
-    "age": 20,
-    "grade": "B",
-    "major": "Business Administration"
+    "name": "Yoga Mat",
+    "price": 24.0,
+    "category": "Fitness",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg"
   },
   {
     "id": 10,
-    "name": "Meera Nair",
-    "age": 22,
-    "grade": "A-",
-    "major": "English Literature"
+    "name": "Portable Power Bank",
+    "price": 22.99,
+    "category": "Electronics",
+    "inStock": true,
+    "image": "https://images.pexels.com/photos/3945663/pexels-photo-3945663.jpeg"
   }
-]
+  ]
+}
