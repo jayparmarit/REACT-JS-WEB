@@ -10,16 +10,13 @@ function CarouselFadeExample() {
                     />
                     Your browser does not support the video tag.
                 </video> */}
-                 <img
-                    className="d-block w-100"
-                    src="https://images.pexels.com/photos/5819278/pexels-photo-5819278.jpeg"
-                    alt="Beautiful beach destination"
-                    style={{ height: '600px', objectFit: 'cover' }}
+                <img className="d-block w-100" src="https://images.pexels.com/photos/18629862/pexels-photo-18629862.jpeg" alt="Mountain landscape" style={{ height: '600px', objectFit: 'cover' }}
                 />
-                <Carousel.Caption>
+
+                {/* <Carousel.Caption>
                     <h3>Tropical Paradise</h3>
                     <p>Relax on pristine beaches and crystal clear waters.</p>
-                </Carousel.Caption>
+                </Carousel.Caption> */}
                 <Carousel.Caption>
                     <h3>Explore Amazing Destinations</h3>
                     <p>Discover the world's most beautiful places with us.</p>
@@ -38,7 +35,11 @@ function CarouselFadeExample() {
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
-                <img className="d-block w-100" src="https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg?auto=compress&cs=tinysrgb&w=1920" alt="Mountain landscape" style={{ height: '600px', objectFit: 'cover' }}
+                <img
+                    className="d-block w-100"
+                    src="https://images.pexels.com/photos/5819278/pexels-photo-5819278.jpeg"
+                    alt="Beautiful beach destination"
+                    style={{ height: '600px', objectFit: 'cover' }}
                 />
                 <Carousel.Caption>
                     <h3>Mountain Adventures</h3>

@@ -2,7 +2,7 @@ import React from 'react'
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 
 import Layout from './routes/Layout'
-import Home from './Components/Ui/Home'
+import Home from './components/Ui/Home'
 
 import { Container, Row, Col } from "react-bootstrap"
 
