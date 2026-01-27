@@ -22,7 +22,7 @@
       "price": 19.49,
       "category": "Home",
       "description": "Energy-efficient smart LED bulb with adjustable brightness and color control.",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-spaceblack-select-202410_FMT_WHH?wid=892&hei=820&fmt=jpeg&qlt=90&.v=Nys1UFFBTmI1T0VnWWNyeEZhdDFYcnRLQTZRakorT3p3YTRUbVA0N3dnbm9kcmNoRkhVQjllNW44R3VXNVFLNm5EL1p1ZmpNaCtMcDhOa3lIZDhWbWhhU2ZYeWJNaHI5aXZSOWk3dEhoQktaVy8wNW1XRmp2WU1GNlh4bGxFVys"
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-spaceblack-select-202410_FMT_WHH?wid=892&hei=820&fmt=jpeg&qlt=90"
     },
     {
       "id": 4,
@@ -79,6 +79,86 @@
       "category": "Electronics",
       "description": "Compact portable power bank for fast and reliable charging on the go.",
       "image": "https://images.pexels.com/photos/3945663/pexels-photo-3945663.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Bluetooth Speaker",
+      "price": 45.99,
+      "category": "Electronics",
+      "description": "Portable Bluetooth speaker with rich bass and clear sound.",
+      "image": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Smart Watch",
+      "price": 129.99,
+      "category": "Electronics",
+      "description": "Smart watch with fitness tracking and notification support.",
+      "image": "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Laptop Backpack",
+      "price": 54.99,
+      "category": "Bags",
+      "description": "Durable backpack with padded laptop compartment.",
+      "image": "https://images.pexels.com/photos/374721/pexels-photo-374721.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Electric Kettle",
+      "price": 34.99,
+      "category": "Home Appliances",
+      "description": "Fast-boiling electric kettle with auto shut-off.",
+      "image": "https://images.pexels.com/photos/585753/pexels-photo-585753.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Desk Lamp",
+      "price": 18.75,
+      "category": "Home",
+      "description": "LED desk lamp with adjustable brightness home.",
+      "image": "https://images.pexels.com/photos/112811/pexels-photo-112811.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Wireless Charger",
+      "price": 27.5,
+      "category": "Electronics",
+      "description": "Fast wireless charging pad compatible with most smartphones.",
+      "image": "https://images.pexels.com/photos/4526407/pexels-photo-4526407.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Noise Cancelling Earbuds",
+      "price": 69.99,
+      "category": "Electronics",
+      "description": "In-ear earbuds with active noise cancellation.",
+      "image": "https://images.pexels.com/photos/8534088/pexels-photo-8534088.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Fitness Dumbbells",
+      "price": 49.99,
+      "category": "Fitness",
+      "description": "Set of adjustable dumbbells for home workouts.",
+      "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Office Desk",
+      "price": 199.99,
+      "category": "Furniture",
+      "description": "Modern office desk with sturdy build and storage space.",
+      "image": "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Air Fryer",
+      "price": 119.0,
+      "category": "Home Appliances",
+      "description": "Oil-free air fryer for healthy and quick cooking.",
+      "image": "https://images.pexels.com/photos/4108715/pexels-photo-4108715.jpeg"
     }
   ]
 }
