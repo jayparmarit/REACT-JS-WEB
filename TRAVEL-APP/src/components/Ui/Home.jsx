@@ -18,31 +18,31 @@ function CarouselFadeExample() {
                     <p>Relax on pristine beaches and crystal clear waters.</p>
                 </Carousel.Caption> */}
                 <Carousel.Caption>
-                    <h3>Explore Amazing Destinations</h3>
-                    <p>Discover the world's most beautiful places with us.</p>
+                    <h1 className='fw-bold'>Explore Amazing Destinations</h1>
+                    <p className=''>Discover the world's most beautiful places with us.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=1920"
+                    src="https://images.goway.com/production/hero/iStock-1919241099.jpeg"
                     alt="Beautiful beach destination"
                     style={{ height: '600px', objectFit: 'cover' }}
                 />
                 <Carousel.Caption>
-                    <h3>Tropical Paradise</h3>
+                    <h1 className='fw-bold'>Tropical Paradise</h1>
                     <p>Relax on pristine beaches and crystal clear waters.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="https://images.pexels.com/photos/5819278/pexels-photo-5819278.jpeg"
+                    src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHJhdmVsfGVufDB8fDB8fHwwz"
                     alt="Beautiful beach destination"
                     style={{ height: '600px', objectFit: 'cover' }}
                 />
                 <Carousel.Caption>
-                    <h3>Mountain Adventures</h3>
+                    <h1 >Mountain Adventures</h1>
                     <p>
                         Experience breathtaking views and unforgettable journeys.
                     </p>
